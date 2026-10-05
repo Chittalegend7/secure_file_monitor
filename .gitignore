@@ -1,0 +1,20 @@
+# Compiled executables
+server/server
+client/client
+monitor/monitor
+
+# Temporary files
+*.tmp
+
+# Downloaded test files
+downloaded_*
+
+# Local test files
+test.txt
+
+# Editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
